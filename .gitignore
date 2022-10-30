@@ -1,0 +1,8 @@
+venv/
+randomizer-old/
+todo.md
+*.d
+*.dll
+randomizer/compile.bat
+randomizer/Makefile
+*.exe
